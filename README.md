@@ -43,5 +43,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
+### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xvxvgvqrfnljkot2l4qj2nqz7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=756027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
