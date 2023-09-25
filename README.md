@@ -2,15 +2,15 @@
 <a href="https://www.instagram.com/subhadipta.nayak/">
   <img align="left" alt="Subhadipta's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://github.com/nsubhadipta">
-  <img align="left" alt="Subhadipta's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<!-- <a href="https://github.com/nsubhadipta">
+  <img align="left" alt="Subhadipta's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.png" />
 </a>
 <a href="https://twitter.com/nsubhadipta">
-  <img align="left" alt="Subhadipta Nayak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Subhadipta Nayak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/subhadipta-nayak/">
-  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
+</a> -->
 
 
 <br />
@@ -44,5 +44,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xvxvgvqrfnljkot2l4qj2nqz7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=756027&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
