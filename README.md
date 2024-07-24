@@ -3,7 +3,7 @@
   <img align="left" alt="Subhadipta's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/subhadipta-nayak/">
-  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
+  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <!-- <a href="https://github.com/nsubhadipta">
   <img align="left" alt="Subhadipta's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.png" />
