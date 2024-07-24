@@ -2,15 +2,16 @@
 <a href="https://www.instagram.com/subhadipta.nayak/">
   <img align="left" alt="Subhadipta's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+<a href="https://www.linkedin.com/in/subhadipta-nayak/">
+  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
+</a>
 <!-- <a href="https://github.com/nsubhadipta">
   <img align="left" alt="Subhadipta's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.png" />
 </a>
 <a href="https://twitter.com/nsubhadipta">
   <img align="left" alt="Subhadipta Nayak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/subhadipta-nayak/">
-  <img align="left" alt="Subhadipta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
-</a> -->
+ -->
 
 
 <br />
